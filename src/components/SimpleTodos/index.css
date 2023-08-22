@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+.todo-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  width: 60%;
+  border-radius: 15px;
+}
